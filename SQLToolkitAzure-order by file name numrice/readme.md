@@ -12,7 +12,7 @@ This is a set of build and deployment tasks to support Azure Databases.
 
 - RunStoredProcedure - This task will run a Stored Procedure against your database.
 
-- RunSqlScripts - This task will run all of the SQL scripts in the specifed folder against your database.
+- RunSqlScripts - This task will run all of the SQL scripts in the specifed folder against your database in the numeric file name order. ex order:  1_script.sql, 2_script.sql, 12_script, 21_Script.
 
 - RunSqlCommand - This task will run an adhoc query aganst your database.
 
@@ -20,4 +20,4 @@ This is a set of build and deployment tasks to support Azure Databases.
 
 ## Website: 
 
-[SQL Toolkit for Azure](https://github.com/crimdon/SQLToolkitAzure)
+[SQL Toolkit for Azure](https://github.com/snandha8/source)

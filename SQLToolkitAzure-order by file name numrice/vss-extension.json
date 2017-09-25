@@ -1,16 +1,16 @@
 {
     "manifestVersion": 1,
     "id": "sql-toolkit-azure",
-    "name": "SQL Toolkit for Azure",
+    "name": "SQL Tool for Azure with orderby file name numeric",
     "version": "1.5.1",
     "public": true,
-    "publisher": "andrewlackenby",
+    "publisher": "Surendhar Nandhagopal",
 	"categories": [
         "Build and release"
     ],
     "links": {
         "support": {
-            "uri": "https://github.com/crimdon/SQLToolkitAzure/issues"
+            "uri": "https://github.com/snandha8/source"
         }
     },
     "targets": [
@@ -18,7 +18,7 @@
             "id": "Microsoft.VisualStudio.Services.Cloud"
         }
     ],    
-    "description": "SQL Toolkit for Azure",
+    "description": "SQL Tool for Azure with orderby file name numeric",
 
     "icons": {
         "default": "icon.jpg"        
