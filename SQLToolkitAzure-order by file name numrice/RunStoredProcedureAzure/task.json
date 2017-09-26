@@ -1,9 +1,9 @@
 {
-    "id": "1587c8b0-70f2-41e4-b69c-549aa0830130",
+    "id": "82264530-7C14-4534-9FDB-B82B053342F4",
     "name": "RunStoredProcedureAzure",
     "friendlyName": "Run SQL Stored Procedure in Azure",
     "description": "Run SQL Stored Procedure within an Azure environment",
-    "author": "Andrew Lackenby",
+    "author": "Surendhar Nandhagopal",
     "category": "Utility",
     "version": {
         "Major": "1",

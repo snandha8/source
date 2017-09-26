@@ -1,9 +1,9 @@
 {
-    "id": "b68d33d0-8397-4c24-a852-af122e8ed969",
+    "id": "F4D3E738-3DA1-4442-BE5B-2ED99659D152",
     "name": "RunSqlScriptsAzure",
     "friendlyName": "Run Sql Scripts on Azure",
     "description": "Allows you to run SQL Scripts",
-    "author": "Andrew Lackenby",
+    "author": "Surendhar Nandhagopal",
     "category": "Utility",
     "version": {
         "Major": "1",

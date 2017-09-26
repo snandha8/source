@@ -1,6 +1,6 @@
 {
     "manifestVersion": 1,
-    "id": "sql-toolkit-azure",
+    "id": "sql-toolkit-azure-with-orderby-numeric",
     "name": "SQL Tool for Azure with orderby file name numeric",
     "version": "1.5.1",
     "public": true,
